@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: beige;
+}
+
+#title {
+  font-family: 'Times New Roman', cursive;
+  font-size: 50px;
+  margin:  5%;
+  color: black;
+}
+
+#points {
+  font-size: 40px;
+}
